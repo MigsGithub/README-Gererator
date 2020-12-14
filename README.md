@@ -2,7 +2,7 @@
 
 [Link To Video](https://www.youtube.com)
 
-[Screen Shoot](./Screen_Shot)
+![](Screen_Shot.png)
 
 
 ## Command line application to generate README
