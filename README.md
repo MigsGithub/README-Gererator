@@ -1,5 +1,8 @@
 # Professional README Generator
 
+[![Watch the video on how! 'Click here'](https://youtu.be/0ovfl2VwlhQ)]
+
+
 ## Command line application to generate README
 
 You can quickly and easily create a README file by using a command-line application to generate one. 
