@@ -1,6 +1,6 @@
 # Professional README Generator
 
-[Link To Video](youtube.com)
+[Link To Video](https://www.youtube.com)
 
 
 ## Command line application to generate README
