@@ -2,6 +2,8 @@
 
 [Link To Video](https://www.youtube.com)
 
+[Screen Shoot](./Screen_Shot)
+
 
 ## Command line application to generate README
 
@@ -14,6 +16,8 @@ The application will be invoked by using the following command:
 ```bash
 node index.js
 ```
+
+![Screenshot](./)
 
 ## User Story
 
