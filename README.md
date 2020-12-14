@@ -1,6 +1,6 @@
 # Professional README Generator
 
-[Link To Video](https://www.youtube.com)
+[Link To Video on how to use here](https://youtu.be/0ovfl2VwlhQ)
 
 ![](Screen_Shot.png)
 
